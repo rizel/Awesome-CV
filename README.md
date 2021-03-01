@@ -54,7 +54,7 @@ Please help keep this project alive! Donations are welcome and will go towards f
 
 In this fork small changes were made only for the **CV format**. The following picture may be more descriptive
 
-[main changes](https://raw.githubusercontent.com/rizel/Awesome-CV/master/examples/resume.png)
+![main changes](https://raw.githubusercontent.com/rizel/Awesome-CV/master/examples/resume.png)
 
 
 ## How to Use
@@ -77,4 +77,4 @@ This should result in the creation of ``{your-cv}.pdf``
 
 ## Credit
 
-Please refer to  posquit0's github on this project for full credits: [`posquit0`](https://github.com/posquit0/Awesome-CV)
+Please refer to  posquit0's github on this project for full credits: [`Awesome-CV@posquit0`](https://github.com/posquit0/Awesome-CV)
